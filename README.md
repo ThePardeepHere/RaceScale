@@ -11,7 +11,6 @@ Every scenario compares a **bad case** with a **good case**. The lesson must exp
 | Start here | Purpose |
 | --- | --- |
 | [Documentation home](docs/README.md) | Clear entry point to all technical documents |
-| [Project blueprint](PROJECT_BLUEPRINT.md) | Authoritative long-term project contract and Codex rules |
 | [Architecture](docs/architecture.md) | How Django, PostgreSQL, and later FastAPI and infrastructure fit together |
 | [Local setup](docs/setup.md) | Prerequisites, first-run plan, and setup verification gates |
 | [Scenario catalogue](docs/scenarios/README.md) | **46 planned scenarios**, split by category and linked to GitHub Issues |
